@@ -1,0 +1,41 @@
+{
+    "G1": {
+        "name": "Math Beginners",
+        "subject": "Math",
+        "level": "beginner",
+        "members": [
+            "S1001",
+            "S1006",
+            "S1014",
+            "S1002"
+        ]
+    },
+    "G2": {
+        "name": "Business Basics",
+        "subject": "Business",
+        "level": "beginner",
+        "members": [
+            "S1004",
+            "S1007",
+            "S1009"
+        ]
+    },
+    "G3": {
+        "name": "History Deep Dive",
+        "subject": "History",
+        "level": "intermediate",
+        "members": [
+            "S1008",
+            "S1011"
+        ]
+    },
+    "G4": {
+        "name": "math tech",
+        "subject": "Math",
+        "level": "advanced",
+        "members": [
+            "S1005",
+            "S1013"
+        ]
+    }
+}
